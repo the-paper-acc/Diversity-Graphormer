@@ -11,3 +11,6 @@ The Files folder contains a zip file with all the datasets used in training and 
 - The Trained Models folder, with the trained models in .pt
 
 The Notebooks folder contains the code to train and evaluate the models.
+
+
+<code style="color : Orangered">⭕ DISCLAIMER: The data contains hate speech instances that do not represent the authors' views ⭕</code>
