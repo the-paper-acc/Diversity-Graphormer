@@ -13,4 +13,4 @@ The Files folder contains a zip file with all the datasets used in training and 
 The Notebooks folder contains the code to train and evaluate the models.
 
 
-<code style="color : Orangered">⭕ DISCLAIMER: The data contains hate speech instances that do not represent the authors' views ⭕</code>
+<code style="color : Orangered">⭕ DISCLAIMER: The examples of hateful comments included in the training and evaluation data are presented to allow reprodutibility of the classification process. These comments do not reflect the views or beliefs of the authors.⭕</code>
